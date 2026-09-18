@@ -13,6 +13,8 @@ Base de datos para gestionar médicos, empleados y pacientes de un centro de sal
 
 05_modelo_logico.png - modelo lógico 
 
+06_Consultas_exitosas.png - consultas de la 1 a la 7
+
 ## Estructura de la base de datos
 medicos: datos del médico, tipo (titular, interino, sustituto) y estado activo.
 
