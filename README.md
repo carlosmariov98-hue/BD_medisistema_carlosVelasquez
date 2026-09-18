@@ -28,9 +28,15 @@ vacaciones: días planificados y disfrutados, tanto de médicos como de empleado
 
 ## Consultas
 #1.Número de pacientes atendidos por cada médico.
+
 #2.Total de días de vacaciones planificadas y disfrutadas por empleado.
+
 #3.Médicos con más horas de consulta a la semana.
+
 #4.Número de sustituciones por médico sustituto.
+
 #5.Médicos actualmente en sustitución.
+
 #6.Horas de consulta por médico y día de la semana.
+
 #7.Médico con más pacientes asignados.
